@@ -1,1 +1,1 @@
-# email-validator
+# Email Validation using Regular Expression.
